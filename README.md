@@ -1,11 +1,35 @@
 
 
 <div align="center">
-<img alt="Daniel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danielavdar&show_icons=true&theme=transparent"/>
+  
+# 👋 Hi there, I'm Daniel Avdar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielavdar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielAvdar)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/danielavdar)
 
 </div>
 
-### Profile views counter 👁️‍🗨️
+<div align="center">
+  
+### ML Engineer & Software Architect
+
+🔭 I specialize in building robust machine learning and software utilities and services.  
+🌱 I create high-quality libraries and tools that prioritize reliability, performance, and usability.  
+
+### Experience:
+• **PyTorch Algorithm Development**: Optimizing CUDA operations for data processing and model operations (training/prediction) locally and in cloud environments  
+• **MLOps Orchestration**: Managing ML operations with and without CUDA in cloud for training, evaluation, and deployment  
+• **Cloud ML Architecture**: Designing reliable, highly available ML services with agility for change and updates  
+• **LLM & Agent Technology**: Deploying LLMs to GCP and Kubernetes, creating backend engineering servers for LLM streaming and MCP tool servers
+
+</div>
+
+<div align="center">
+<img alt="Daniel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danielavdar&show_icons=true&theme=dark"/>
+</div>
+
+### Profile views
 [![Daniel Avdar profile views](https://u8views.com/api/v1/github/profiles/66269169/views/day-week-month-total-count.svg)](https://u8views.com/github/DanielAvdar)
 
 
