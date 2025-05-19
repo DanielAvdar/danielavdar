@@ -29,13 +29,6 @@
 <img alt="Daniel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danielavdar&show_icons=true&theme=dark"/>
 </div>
 
-### Profile views
-[![Daniel Avdar profile views](https://u8views.com/api/v1/github/profiles/66269169/views/day-week-month-total-count.svg)](https://u8views.com/github/DanielAvdar)
-
-
-### Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanielAvdar&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/DanielAvdar/github-profile-trophy#about-rank)
-
 ## My Projects
 
 Here's a collection of my open-source projects:
@@ -96,3 +89,6 @@ Define Kubeflow Pipeline (KFP) Components with Python Dataclasses for dataclass-
 ![Last Commit](https://img.shields.io/github/last-commit/DanielAvdar/dev-kit-mcp-server/main)
 
 A Model Context Protocol (MCP) server for agent development tools, providing scoped authorized operations in projects.
+
+### Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanielAvdar&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/DanielAvdar/github-profile-trophy#about-rank)
