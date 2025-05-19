@@ -21,6 +21,7 @@
 • **PyTorch Algorithm Development**: Optimizing CUDA operations for data processing and model operations (training/prediction) locally and in cloud environments  
 • **MLOps Orchestration**: Managing ML operations with and without CUDA in cloud for training, evaluation, and deployment  
 • **Cloud ML Architecture**: Designing reliable, highly available ML services with agility for change and updates  
+• **Research Automation**: Automating research and experimentation of machine learning in cloud environments  
 • **LLM & Agent Technology**: Deploying LLMs to GCP and Kubernetes, creating backend engineering servers for LLM streaming and MCP tool servers
 
 </div>
